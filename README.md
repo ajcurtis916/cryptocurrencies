@@ -7,5 +7,5 @@ Accountability Accounting tasked us with creating an unsupervised machine learni
 
 We clustered the cryptocurrencies using k-means clustering, intended to group similar data points together and discover underlying patterns. We reduced the data dimensions using PCA and used tools such as hvplot to continue to optimize our machine learning model.  We then visualized our results using plotly:
 
-<img align="left" src="https://github.com/ajcurtis916/MechaCar_statistical_analysis/blob/main/resources/xlinear_regression.png" />
+<img align="right" src="https://github.com/ajcurtis916/cryptocurrencies/blob/main/resources/total_coins_scatter.png"/>
 
