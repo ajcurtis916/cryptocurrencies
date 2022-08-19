@@ -1,22 +1,11 @@
-# Cryptocurrency Supervised Learning
-## **
-### Project Overview:
+# Cryptocurrency Unsupervised Learning
+## *Classify Currently Traded Cryptocurrencies for New Investment Portfolio*
+### Project Overview: Look for groupings, trends, or other information that could help pitch cryptocurrencies to Accountability Accounting's firm for successful investment, and visualize our findings.
 ---
 
-</br>
-looking for any groupings, trends, or other information that could help you pitch cryptocurrencies to her firm.
+Accountability Accounting tasked us with creating an unsupervised machine learning algorithm to help create a new cryptocurrency investment portfolio for its customers.  We began be cleaning and whittling the data down to features of "algorithm," "proof type," "total coins mined" and "total coint supply," then optimized and scaled our data to prepare for the unsupervised machine learning model.
 
-if you can convince Accountability Accounting to invest in this cutting-edge financial system
+We clustered the cryptocurrencies using k-means clustering, intended to group similar data points together and discover underlying patterns. We reduced the data dimensions using PCA and used tools such as hvplot to continue to optimize our machine learning model.  We then visualized our results using plotly:
 
-how to cluster, how to reduce your dimensions, and how to reduce the principal components using PCA. It’s time to put all these skills to use by creating an analysis for your clients who are preparing to get into the cryptocurrency market
+<img align="left" src="https://github.com/ajcurtis916/MechaCar_statistical_analysis/blob/main/resources/xlinear_regression.png" />
 
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.
-
-they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
-</br>
-
-## Results
-
-## Resources
-
-## Summary
